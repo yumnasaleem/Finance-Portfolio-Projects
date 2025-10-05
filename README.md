@@ -1,2 +1,2 @@
 # Finance-Portfolio-Projects
-This repository contains 7 finance-related projects, including forecasting, risk analysis, and portfolio optimization with Monte Carlo simulation.
+This repository contains 8 finance-related projects, including forecasting, risk analysis, dahshboard formation and portfolio optimization with Monte Carlo simulation.
